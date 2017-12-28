@@ -1,6 +1,6 @@
-# Simple script to download images from a file with the same URL base.
-# Pass in the input file, and the base of the url:
-# e.g. down.rb download.txt http://cdn.zooshoo.com/amazon_pics/
+# Simple script to download images from a file.
+# Pass in the input file:
+# e.g. down.rb download.txt
 
 rfile = ARGV
 
