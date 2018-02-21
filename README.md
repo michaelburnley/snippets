@@ -25,3 +25,12 @@ Takes a file of URLs and downloads them to current directory.
 Arguments: 
 
 - rfile = File of URLs to be read from
+
+Javascript
+----------
+----------
+
+DynamoDB Interface
+------------------
+
+Wrapper for Interacting with Amazon's DynamoDB
